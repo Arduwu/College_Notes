@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "873199255424bc40",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Fijics/Kleppner Kolenkow Solutions 2.pdf",
+                "file": "101/MTH101/Linear Algebra/Notes/2019_Full_Notes.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Fijics/Kleppner Kolenkow Solutions 2.pdf",
+                "file": "101/MTH101/Linear Algebra/Notes/2019_Full_Notes.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Fijics/Kleppner Kolenkow Solutions 2.pdf"
+                "file": "101/MTH101/Linear Algebra/Notes/2019_Full_Notes.pdf"
               }
             }
           },
@@ -201,14 +200,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "207ad2159eee1b6d",
+  "active": "3f1ab1c7ee164ba8",
   "lastOpenFiles": [
+    "books/Fijics/Kleppner Kolenkow Solutions 2.pdf",
     "books/Fijics/Kleppner - Mechanics.pdf",
     "101/MTH101/Linear Algebra/Notes/2019_Full_Notes.pdf",
     "101/MTH101/Linear Algebra/Linear Equations.md",
     "books/Bio/Campbell Biology Concepts Connections.pdf",
     "101/MTH101/Linear Algebra/Notes/Lecture1.pdf",
-    "books/Fijics/Kleppner Kolenkow Solutions 2.pdf",
     "101/MTH101/Group Theory/5.Lagrange's Theorem.md",
     "101/MTH101/Group Theory/0.Theorems.md",
     "101/MTH101/Group Theory/Notes/Notes/Lecture13.pdf",
