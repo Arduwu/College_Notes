@@ -16,6 +16,16 @@
                 "file": "101/MTH101/Linear Algebra/Notes/Lecture2.pdf"
               }
             }
+          },
+          {
+            "id": "5d494a2ba54d3c59",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "101/MTH101/Linear Algebra/Notes/2019_Full_Notes.pdf"
+              }
+            }
           }
         ]
       }
@@ -176,6 +186,7 @@
   "active": "3f1ab1c7ee164ba8",
   "lastOpenFiles": [
     "101/MTH101/Linear Algebra/Notes/2019_Full_Notes.pdf",
+    "101/MTH101/Linear Algebra/Notes/Lecture2.pdf",
     "books/Fijics/Kleppner Kolenkow Solutions 2.pdf",
     "books/Fijics/Kleppner - Mechanics.pdf",
     "101/MTH101/Linear Algebra/Linear Equations.md",
@@ -183,7 +194,6 @@
     "101/MTH101/Linear Algebra/Notes/Lecture1.pdf",
     "101/MTH101/Group Theory/5.Lagrange's Theorem.md",
     "101/MTH101/Group Theory/0.Theorems.md",
-    "101/MTH101/Group Theory/Notes/Notes/Lecture13.pdf",
-    "101/MTH101/Group Theory/Notes/Notes/Lecture14.pdf"
+    "101/MTH101/Group Theory/Notes/Notes/Lecture13.pdf"
   ]
 }
