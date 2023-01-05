@@ -8,22 +8,40 @@
         "type": "tabs",
         "children": [
           {
+            "id": "7a5d6b64bd8fa295",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "101/MTH101/Linear Algebra/Solving Linear Equations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3ed2f676a3f55fbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5c0020692087cb5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "101/MTH101/Linear Algebra/Notes/Lecture1.pdf"
+              }
+            }
+          },
+          {
             "id": "3f1ab1c7ee164ba8",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "101/MTH101/Linear Algebra/Notes/Lecture2.pdf"
-              }
-            }
-          },
-          {
-            "id": "5d494a2ba54d3c59",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "101/MTH101/Linear Algebra/Notes/2019_Full_Notes.pdf"
               }
             }
           }
@@ -93,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Linear Algebra/Notes/Lecture2.pdf",
+                "file": "101/MTH101/Linear Algebra/Solving Linear Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Linear Algebra/Notes/Lecture2.pdf",
+                "file": "101/MTH101/Linear Algebra/Solving Linear Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Linear Algebra/Notes/Lecture2.pdf"
+                "file": "101/MTH101/Linear Algebra/Solving Linear Equations.md"
               }
             }
           },
@@ -183,15 +201,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f1ab1c7ee164ba8",
+  "active": "7a5d6b64bd8fa295",
   "lastOpenFiles": [
-    "101/MTH101/Linear Algebra/Notes/2019_Full_Notes.pdf",
+    "101/MTH101/Linear Algebra/Notes/Lecture1.pdf",
+    "101/MTH101/Linear Algebra/Solving Linear Equations.md",
     "101/MTH101/Linear Algebra/Notes/Lecture2.pdf",
+    "101/MTH101/Linear Algebra/Notes/2019_Full_Notes.pdf",
     "books/Fijics/Kleppner Kolenkow Solutions 2.pdf",
     "books/Fijics/Kleppner - Mechanics.pdf",
-    "101/MTH101/Linear Algebra/Linear Equations.md",
     "books/Bio/Campbell Biology Concepts Connections.pdf",
-    "101/MTH101/Linear Algebra/Notes/Lecture1.pdf",
     "101/MTH101/Group Theory/5.Lagrange's Theorem.md",
     "101/MTH101/Group Theory/0.Theorems.md",
     "101/MTH101/Group Theory/Notes/Notes/Lecture13.pdf"
