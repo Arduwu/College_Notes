@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101/MTH101/Linear Algebra/Solving Linear Equations.md",
+                "file": "101/MTH101/Linear Algebra/1. Solving Linear Equations.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Linear Algebra/Solving Linear Equations.md",
+                "file": "101/MTH101/Linear Algebra/1. Solving Linear Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Linear Algebra/Solving Linear Equations.md",
+                "file": "101/MTH101/Linear Algebra/1. Solving Linear Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Linear Algebra/Solving Linear Equations.md"
+                "file": "101/MTH101/Linear Algebra/1. Solving Linear Equations.md"
               }
             }
           },
@@ -203,15 +203,15 @@
   },
   "active": "7a5d6b64bd8fa295",
   "lastOpenFiles": [
+    "101/MTH101/MTH101_2022_Midsemester.pdf",
+    "101/MTH101/Linear Algebra/1. Solving Linear Equations.md",
     "101/MTH101/Linear Algebra/Notes/Lecture1.pdf",
-    "101/MTH101/Linear Algebra/Solving Linear Equations.md",
     "101/MTH101/Linear Algebra/Notes/Lecture2.pdf",
     "101/MTH101/Linear Algebra/Notes/2019_Full_Notes.pdf",
     "books/Fijics/Kleppner Kolenkow Solutions 2.pdf",
     "books/Fijics/Kleppner - Mechanics.pdf",
     "books/Bio/Campbell Biology Concepts Connections.pdf",
     "101/MTH101/Group Theory/5.Lagrange's Theorem.md",
-    "101/MTH101/Group Theory/0.Theorems.md",
-    "101/MTH101/Group Theory/Notes/Notes/Lecture13.pdf"
+    "101/MTH101/Group Theory/0.Theorems.md"
   ]
 }
