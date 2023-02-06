@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "81c240b760489f70",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7a5d6b64bd8fa295",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "101/MTH101/Linear Algebra/1. Solving Linear Equations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "3ed2f676a3f55fbc",
         "type": "tabs",
         "children": [
@@ -201,7 +183,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a5d6b64bd8fa295",
+  "active": "f3a32b05078690b7",
   "lastOpenFiles": [
     "101/MTH101/MTH101_2022_Midsemester.pdf",
     "101/MTH101/Linear Algebra/1. Solving Linear Equations.md",
