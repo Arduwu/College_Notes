@@ -36,8 +36,6 @@ Additional **Gobular Proteins** are also embedded into the lipid bilayer
 ### Types of Phospholipids
 ![[Pasted image 20221217135723.png]]
 
-
-
 $Q.$ *What is the basic requirement for life to form?*
 > A membrane that not only encolses a successful assembly of molecules but also regulates chemical exchanges with the environment.
 > For regulation the membrane should contain proteins embedded into it, cause only simple lipid bilayers are not sufficient
