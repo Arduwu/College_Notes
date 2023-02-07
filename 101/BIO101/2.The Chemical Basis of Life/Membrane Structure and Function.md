@@ -29,8 +29,7 @@ Additional **Gobular Proteins** are also embedded into the lipid bilayer
 - Among the first organic molecules that formed from chemical reactions on early Earth
 - These lipids could spontaneously self-assemble into simple membranes.
 	  We can demonstrate this by shaking phospholipids and water. The lipids will form a bilayer surrounding around water-filled bubbles
-	  
-![[Pasted image 20221216182320.png]]
+	![[Pasted image 20221216182320.png]]
 - The Phospholipids can arrange themselves latteraly very easily and move faster than the proteins
 
 ### Types of Phospholipids
@@ -78,7 +77,7 @@ Transports specific substances across membrane by changing shape. For Ex, Amino 
 Recognizes specific ligand and alters cell's fucntion is one way. For ex, Antiduretic hormone binds to rececptors in the kidneys and changes the water permeability of certain plasma membranes.
 
 #### 4. Enzyme
-Catalyzes reaciton isnide or outside cell. For Ex, lactase protruding from epithelial cells lining your small intestine splits the dissacharide lactose in the milk you drinki
+Catalyzes reaciton inside or outside cell. For Ex, lactase protruding from epithelial cells lining your small intestine splits the dissacharide lactose in the milk you drinki
 
 #### 5. Linker
 Anchors filaments inside and outside to the plasma membrane, providing structural stability. May also participate in movement of the cell or link two cells together.
